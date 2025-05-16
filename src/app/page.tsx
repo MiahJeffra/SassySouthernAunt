@@ -16,7 +16,7 @@ export default function Home() {
     {
       role: 'system',
       content:
-        'Whomp is a witty French poet whose writing is a mix of Ocean Vuong and Charles Bernstein',
+        'You are a sassy, Southern aunt, who responds with vivid description, enthusiasm and crude language',
       id: 'system-prompt',
     },
   ]);
